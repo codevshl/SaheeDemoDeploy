@@ -1,0 +1,52 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ category }} Symptoms</title>
+</head>
+<body>
+    <h1>Symptoms in Category: {{ category }}</h1>
+    <form action="" method="post">
+        {% if severe_symptoms %}
+            <h2>Severe Symptoms:</h2>
+            {% for symptom, details in severe_symptoms.items() %}
+                <input type="radio" id="{{ symptom }}" name="selected_symptom" value="{{ symptom }}">
+                <label for="{{ symptom }}">{{ symptom }}</label><br>
+            {% endfor %}
+            <input type="submit" value="Submit">
+            <input type="submit" name="none_of_these" value="None of these">
+        {% else %}
+            <p>No severe symptoms available. Please select from other categories.</p>
+            <input type="submit" name="none_of_these" value="None of these">
+        {% endif %}
+    </form>
+</body>
+</html> -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ category }} Symptoms</title>
+</head>
+<body>
+    <h1>Symptoms in Category: {{ category }}</h1>
+    <form action="" method="post">
+        {% if severe_symptoms %}
+            <h2>Severe Symptoms:</h2>
+            {% for symptom, details in severe_symptoms.items() %}
+                <input type="radio" id="{{ symptom }}" name="selected_symptom" value="{{ symptom }}">
+                <!-- <label for="{{ symptom }}">{{ symptom }}</label><br> -->
+                <label for="{{ symptom }}">{{ SevereSymptomsDict[symptom] }}</label><br>
+            {% endfor %}
+            <input type="submit" value="Submit" onclick="return confirm('Selecting a severe symptom may require immediate medical attention. Do you want to continue?');">
+            <input type="submit" name="none_of_these" value="None of these">
+        {% else %}
+            <p>No severe symptoms available. Please select from other categories.</p>
+            <input type="submit" name="none_of_these" value="None of these">
+        {% endif %}
+    </form>
+</body>
+</html>

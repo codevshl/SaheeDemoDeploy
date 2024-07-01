@@ -1,0 +1,3188 @@
+{
+    "A": {
+        "1": {}
+    },
+    "AA": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "502": {
+            "Advice_1": "DIP FOLDED CLOTH IN COOL WATER AND SQUEEZE OUT THE WATER",
+            "Advice_2": "REPEATEDLY PLACE THE COOL CLOTH ON FOREHEAD"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "AB": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "204": {
+            "Advice_1": "FOR MALARIA FEVER CHLOROQUINE 150 MG TABLET FOR 3 DAYS",
+            "Advice_2": "TO BE TAKEN AFTER FOOD: 4 TABLETS on 1st DAY, 4 TABLETS on 2nd DAY, 2 TABLETS on 3rd DAY"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "503": {
+            "Advice_1": "TAKE COMPLETE REST"
+        },
+        "505": {
+            "Advice_1": "USE MOSQUITO NET ON ALL THE BEDS IN THE HOUSE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "AC": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "503": {
+            "Advice_1": "TAKE COMPLETE REST"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "AD": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "503": {
+            "Advice_1": "TAKE COMPLETE REST"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "AE": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "503": {
+            "Advice_1": "TAKE COMPLETE REST"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "AF": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "204": {
+            "Advice_1": "FOR MALARIA FEVER CHLOROQUINE 150 MG TABLET FOR 3 DAYS",
+            "Advice_2": "TO BE TAKEN AFTER FOOD: 4 TABLETS on 1st DAY, 4 TABLETS on 2nd DAY, 2 TABLETS on 3rd DAY"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "503": {
+            "Advice_1": "TAKE COMPLETE REST"
+        },
+        "505": {
+            "Advice_1": "USE MOSQUITO NET ON ALL THE BEDS IN THE HOUSE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "AG": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "502": {
+            "Advice_1": "DIP FOLDED CLOTH IN COOL WATER AND SQUEEZE OUT THE WATER",
+            "Advice_2": "REPEATEDLY PLACE THE COOL CLOTH ON FOREHEAD"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "AI": {
+        "nan": {}
+    },
+    "AJ": {
+        "nan": {}
+    },
+    "AK": {
+        "nan": {}
+    },
+    "AX": {
+        "nan": {}
+    },
+    "AZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "AZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "BL": {
+        "nan": {}
+    },
+    "CZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "MZX": {
+        "nan": {}
+    },
+    "E2ZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "KZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "KZH": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "KZI": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "BG ws fr fumes": {
+        "515": {
+            "Advice_1": "COVER NOSE AND MOUTH WITH MASK AT WORK"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "BI": {
+        "nan": {}
+    },
+    "BF": {
+        "591": {
+            "Advice_1": "STOP SMOKING ",
+            "Advice_2": "EVER"
+        }
+    },
+    "BG": {
+        "592": {
+            "Advice_1": "DO NOT CHEW OR RUB TOBACCO IN THE MOUTH",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "BX": {
+        "nan": {}
+    },
+    "BZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "BZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "BZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "BZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "BZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "BZH": {
+        "nan": {}
+    },
+    "AH": {
+        "nan": {}
+    },
+    "AZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "AZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "AZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "AZF": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "AZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "AZH": {
+        "nan": {}
+    },
+    "AZI": {
+        "nan": {}
+    },
+    "AZX": {
+        "nan": {}
+    },
+    "B": {
+        "2": {}
+    },
+    "BA": {
+        "106": {
+            "Advice_1": "FOR COUGH OR SORE THROAT SUALIN TABLETS",
+            "Advice_2": "1 TABLET 4 TIMES A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "520": {
+            "Advice_1": "ASK YOUR DOCTOR IF ANY MEDICINE THEY HAVE GIVEN IS CAUSING THE NEW SYMPTOM(S)",
+            "Advice_2": "ALSO ASK THE DOCTOR IF THE MEDICINE THEY HAVE GIVEN SHOULD BE CHANGED"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "BB": {
+        "106": {
+            "Advice_1": "FOR COUGH OR SORE THROAT SUALIN TABLETS",
+            "Advice_2": "1 TABLET 4 TIMES A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "BC": {
+        "106": {
+            "Advice_1": "FOR COUGH OR SORE THROAT SUALIN TABLETS",
+            "Advice_2": "1 TABLET 4 TIMES A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "513": {
+            "Advice_1": "TAKE STEAM INHALATION",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "BD": {
+        "106": {
+            "Advice_1": "FOR COUGH OR SORE THROAT SUALIN TABLETS",
+            "Advice_2": "1 TABLET 4 TIMES A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "BE": {
+        "106": {
+            "Advice_1": "FOR COUGH OR SORE THROAT SUALIN TABLETS",
+            "Advice_2": "1 TABLET 4 TIMES A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "514": {
+            "Advice_1": "DO NOT SPEAK LOUDLY OR TOO MUCH",
+            "Advice_2": "TILL VOICE IMPROVES"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "BK": {
+        "nan": {}
+    },
+    "BZF": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "BZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "BJ": {
+        "nan": {}
+    },
+    "BZX": {
+        "nan": {}
+    },
+    "C": {
+        "3": {}
+    },
+    "CC": {
+        "513": {
+            "Advice_1": "TAKE STEAM INHALATION",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        },
+        "268": {
+            "Advice_1": "DO NASAL IRRIGATION OR JAL NETI WITH WARM SALTED WATER",
+            "Advice_2": "REPEAT 2 TO 3 TIMES DAILY UNTIL NASAL PASSAGE IS OPEN"
+        }
+    },
+    "CG": {
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        },
+        "268": {
+            "Advice_1": "DO NASAL IRRIGATION OR JAL NETI WITH WARM SALTED WATER",
+            "Advice_2": "REPEAT 2 TO 3 TIMES DAILY UNTIL NASAL PASSAGE IS OPEN"
+        },
+        "513": {
+            "Advice_1": "TAKE STEAM INHALATION",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        }
+    },
+    "CA": {
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        },
+        "513": {
+            "Advice_1": "TAKE STEAM INHALATION",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        }
+    },
+    "CD": {
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        },
+        "268": {
+            "Advice_1": "DO NASAL IRRIGATION OR JAL NETI WITH WARM SALTED WATER",
+            "Advice_2": "REPEAT 2 TO 3 TIMES DAILY UNTIL NASAL PASSAGE IS OPEN"
+        }
+    },
+    "CB": {
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        }
+    },
+    "CF": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "513": {
+            "Advice_1": "TAKE STEAM INHALATION",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        }
+    },
+    "CE": {
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "268": {
+            "Advice_1": "DO NASAL IRRIGATION OR JAL NETI WITH WARM SALTED WATER",
+            "Advice_2": "REPEAT 2 TO 3 TIMES DAILY UNTIL NASAL PASSAGE IS OPEN"
+        }
+    },
+    "CH": {
+        "513": {
+            "Advice_1": "TAKE STEAM INHALATION",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        },
+        "268": {
+            "Advice_1": "DO NASAL IRRIGATION OR JAL NETI WITH WARM SALTED WATER",
+            "Advice_2": "REPEAT 2 TO 3 TIMES DAILY UNTIL NASAL PASSAGE IS OPEN"
+        },
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        }
+    },
+    "CI": {
+        "592": {
+            "Advice_1": "DO NOT CHEW OR RUB TOBACCO IN THE MOUTH",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "CJ": {
+        "593": {
+            "Advice_1": "DO NOT DRINK ALCOHOL",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "CK": {
+        "591": {
+            "Advice_1": "STOP SMOKING ",
+            "Advice_2": "EVER"
+        }
+    },
+    "CL": {
+        "nan": {}
+    },
+    "CM": {
+        "nan": {}
+    },
+    "CX": {
+        "nan": {}
+    },
+    "CZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "NI": {
+        "nan": {}
+    },
+    "NJ": {
+        "nan": {}
+    },
+    "NK": {
+        "nan": {}
+    },
+    "PZX": {
+        "nan": {}
+    },
+    "NaN": {
+        "27": {}
+    },
+    "E2": {
+        "6": {}
+    },
+    "CZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "CZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "CZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "CZX": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "D": {
+        "4": {}
+    },
+    "DA": {
+        "106": {
+            "Advice_1": "FOR COUGH OR SORE THROAT SUALIN TABLETS",
+            "Advice_2": "1 TABLET 4 TIMES A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "512": {
+            "Advice_1": "GARGLE WITH WARM SALT WATER",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "DB": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "512": {
+            "Advice_1": "GARGLE WITH WARM SALT WATER",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        },
+        "514": {
+            "Advice_1": "DO NOT SPEAK LOUDLY OR TOO MUCH",
+            "Advice_2": "TILL VOICE IMPROVES"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "DC": {
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "DD": {
+        "106": {
+            "Advice_1": "FOR COUGH OR SORE THROAT SUALIN TABLETS",
+            "Advice_2": "1 TABLET 4 TIMES A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "512": {
+            "Advice_1": "GARGLE WITH WARM SALT WATER",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        },
+        "514": {
+            "Advice_1": "DO NOT SPEAK LOUDLY OR TOO MUCH",
+            "Advice_2": "TILL VOICE IMPROVES"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "DE": {
+        "106": {
+            "Advice_1": "FOR COUGH OR SORE THROAT SUALIN TABLETS",
+            "Advice_2": "1 TABLET 4 TIMES A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "513": {
+            "Advice_1": "TAKE STEAM INHALATION",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        },
+        "514": {
+            "Advice_1": "DO NOT SPEAK LOUDLY OR TOO MUCH",
+            "Advice_2": "TILL VOICE IMPROVES"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "DF": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "516": {
+            "Advice_1": "RINSE MOUTH WITH WARM SALT WATER",
+            "Advice_2": "3-4 TIMES PER DAY"
+        },
+        "707": {
+            "Advice_1": "SEE A DENTIST IF TEETH OR GUM PROBLEM CONTINUES BEYOND 5 TO 7 DAYS",
+            "Advice_2": "Patient should follow advice given by the Dentist"
+        }
+    },
+    "DG": {
+        "512": {
+            "Advice_1": "GARGLE WITH WARM SALT WATER",
+            "Advice_2": "3 TO 4 TIMES DAILY"
+        }
+    },
+    "DH": {
+        "592": {
+            "Advice_1": "DO NOT CHEW OR RUB TOBACCO IN THE MOUTH",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "DI": {
+        "593": {
+            "Advice_1": "DO NOT DRINK ALCOHOL",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "DJ": {
+        "nan": {}
+    },
+    "DK": {
+        "nan": {}
+    },
+    "DX": {
+        "nan": {}
+    },
+    "DZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "DZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "DZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "DZD": {
+        "nan": {}
+    },
+    "DZX": {
+        "nan": {}
+    },
+    "E": {
+        "5": {}
+    },
+    "E1E": {
+        "267": {
+            "Advice_1": "FOR BREATHLESSNES ASTHALIN 2 MG",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        },
+        "592": {
+            "Advice_1": "DO NOT CHEW OR RUB TOBACCO IN THE MOUTH",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "E1B": {
+        "106": {
+            "Advice_1": "FOR COUGH OR SORE THROAT SUALIN TABLETS",
+            "Advice_2": "1 TABLET 4 TIMES A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "267": {
+            "Advice_1": "FOR BREATHLESSNES ASTHALIN 2 MG",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        }
+    },
+    "E1A": {
+        "266": {
+            "Advice_1": "FOR BREATHLESSNESS DERIPHYLLIN RETARD 300 MG ",
+            "Advice_2": "1 TABLET DAILY FOR 7 DAYS"
+        },
+        "267": {
+            "Advice_1": "FOR BREATHLESSNES ASTHALIN 2 MG",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "E1D": {
+        "267": {
+            "Advice_1": "FOR BREATHLESSNES ASTHALIN 2 MG",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        },
+        "517": {
+            "Advice_1": "AVOID DUSTY ENVIRONMENT"
+        },
+        "563": {
+            "Advice_1": "AVOID STRENUOUS ACTIVITY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "E1C": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "563": {
+            "Advice_1": "AVOID STRENUOUS ACTIVITY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "E1F": {
+        "267": {
+            "Advice_1": "FOR BREATHLESSNES ASTHALIN 2 MG",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        },
+        "593": {
+            "Advice_1": "DO NOT DRINK ALCOHOL",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "E1G": {
+        "266": {
+            "Advice_1": "FOR BREATHLESSNESS DERIPHYLLIN RETARD 300 MG ",
+            "Advice_2": "1 TABLET DAILY FOR 7 DAYS"
+        },
+        "267": {
+            "Advice_1": "FOR BREATHLESSNES ASTHALIN 2 MG",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        },
+        "563": {
+            "Advice_1": "AVOID STRENUOUS ACTIVITY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "E1H": {
+        "nan": {}
+    },
+    "E1I": {
+        "nan": {}
+    },
+    "E1X": {
+        "nan": {}
+    },
+    "E1ZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E1ZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E1ZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E1ZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E1ZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E1ZF": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E1ZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E1ZH": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E1ZI": {
+        "nan": {}
+    },
+    "E1ZX": {
+        "nan": {}
+    },
+    "F": {
+        "6": {}
+    },
+    "FA": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        }
+    },
+    "FG": {
+        "nan": {}
+    },
+    "FC": {
+        "113": {
+            "Advice_1": "FOR MIGRAINE HEADACHE PROPRANOLOL 40 MG TABLET",
+            "Advice_2": "TO PREVENT MIGRAINE TAKE 1 TABLET AFTER BREAKFAST FOR 3 MONTHS"
+        },
+        "114": {
+            "Advice_1": "FOR MIGRAINE HEADACHE DIVALPOREX 250 MG ",
+            "Advice_2": "TO STOP A MIGRAINE 2 TABLETS WHENEVER HEADACHE STARTS"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "574": {
+            "Advice_1": "PATIENT SHOULD REST IN A QUIET DARK PLACE AND TRY TO SLEEP"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "FF": {
+        "nan": {}
+    },
+    "FE": {
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "593": {
+            "Advice_1": "DO NOT DRINK ALCOHOL",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "FD": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "704": {
+            "Advice_1": "GET YOUR EYES TESTED",
+            "Advice_2": "SOON"
+        }
+    },
+    "FB": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "108": {
+            "Advice_1": "FOR NECK ACHE OR HEADACHE ALMOST DAILY AMITRIPTYLINE 25 MG TABLETS",
+            "Advice_2": "1 TABLET AT NIGHT FOR 7 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "FH": {
+        "nan": {}
+    },
+    "FI": {
+        "nan": {}
+    },
+    "FJ": {
+        "nan": {}
+    },
+    "FK": {
+        "nan": {}
+    },
+    "FL": {
+        "nan": {}
+    },
+    "FX": {
+        "nan": {}
+    },
+    "FZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "FZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "FZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "FZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "FZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "FZF": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "FZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "FZH": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "FZI": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "FZJ": {
+        "nan": {}
+    },
+    "FZX": {
+        "nan": {}
+    },
+    "G": {
+        "7": {}
+    },
+    "GA": {
+        "7": {}
+    },
+    "GAA": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        }
+    },
+    "GAB": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "107": {
+            "Advice_1": "FOR PAIN ON CHEST OR LOW BACK, APPLY TURPENTINE LINCTUS",
+            "Advice_2": "RUB ON PAINFUL PART 3 TO 4 TIMES DAILY"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        }
+    },
+    "GAC": {
+        "305": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS PENTOCID 20 MG",
+            "Advice_2": "2 TABLETS BEFORE FOOD EVERY MORNING FOR ONE MONTH"
+        },
+        "308": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS DOMPERIDONE 10 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "539": {
+            "Advice_1": "DO NOT LIE DOWN JUST AFTER MEALS",
+            "Advice_2": "DO NOT EAT FATTY FOOD AND LOSE WEIGHT IF OVERWEIGHT"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "GAD": {
+        "305": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS PENTOCID 20 MG",
+            "Advice_2": "2 TABLETS BEFORE FOOD EVERY MORNING FOR ONE MONTH"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "GAE": {
+        "305": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS PENTOCID 20 MG",
+            "Advice_2": "2 TABLETS BEFORE FOOD EVERY MORNING FOR ONE MONTH"
+        },
+        "308": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS DOMPERIDONE 10 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        },
+        "538": {
+            "Advice_1": "AVOID VERY OILY, FATTY OR VERY SPICY FOOD"
+        },
+        "539": {
+            "Advice_1": "DO NOT LIE DOWN JUST AFTER MEALS",
+            "Advice_2": "DO NOT EAT FATTY FOOD AND LOSE WEIGHT IF OVERWEIGHT"
+        },
+        "543": {
+            "Advice_1": "PLACE TWO BRICKS UNDER THE BED TO RAISE HEAD WHILE LYING DOWN"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "GAF": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "107": {
+            "Advice_1": "FOR PAIN ON CHEST OR LOW BACK, APPLY TURPENTINE LINCTUS",
+            "Advice_2": "RUB ON PAINFUL PART 3 TO 4 TIMES DAILY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "GAG": {
+        "nan": {}
+    },
+    "GAH": {
+        "nan": {}
+    },
+    "GAX": {
+        "nan": {}
+    },
+    "GB": {
+        "7": {}
+    },
+    "GBA": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "215": {
+            "Advice_1": "FOR BLISTERS ON CHEST, APPLY FUSIDIC ACID 2 PERCENT ",
+            "Advice_2": "4 TIMES DAILY FOR 7 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "GBB": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "GBC": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "GBD": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "107": {
+            "Advice_1": "FOR PAIN ON CHEST OR LOW BACK, APPLY TURPENTINE LINCTUS",
+            "Advice_2": "RUB ON PAINFUL PART 3 TO 4 TIMES DAILY"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "GBE": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "107": {
+            "Advice_1": "FOR PAIN ON CHEST OR LOW BACK, APPLY TURPENTINE LINCTUS",
+            "Advice_2": "RUB ON PAINFUL PART 3 TO 4 TIMES DAILY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "GBF": {
+        "nan": {}
+    },
+    "GBG": {
+        "nan": {}
+    },
+    "GBX": {
+        "nan": {}
+    },
+    "GZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "GZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "GZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "GZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "GZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "GZF": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "GZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "GZH": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "GZI": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "GZJ": {
+        "nan": {}
+    },
+    "GZX": {
+        "nan": {}
+    },
+    "H": {
+        "8": {}
+    },
+    "HA": {
+        "305": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS PENTOCID 20 MG",
+            "Advice_2": "2 TABLETS BEFORE FOOD EVERY MORNING FOR ONE MONTH"
+        },
+        "532": {
+            "Advice_1": "CHEW YOUR FOOD PROPERLY BEFORE SWALLOWING"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "HB": {
+        "305": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS PENTOCID 20 MG",
+            "Advice_2": "2 TABLETS BEFORE FOOD EVERY MORNING FOR ONE MONTH"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "HC": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "HD": {
+        "326": {
+            "Advice_1": "FOR ABDOMINAL AILMENTS MEBEVERINE 135 MG TABLETS",
+            "Advice_2": "1 TABLET HALF HOUR BEFORE FOOD 3 TIMES A DAY FOR 7 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "HE": {
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        }
+    },
+    "HF": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "249": {
+            "Advice_1": "FOR WORMS ALBENDAZOLE 400 MG TABLET",
+            "Advice_2": "ONLY 1 TABLET TO BE TAKEN (AT THE SAME TIME TREAT ALL FAMILY MEMBERS ABOVE THE AGE OF 2 YEARS)"
+        },
+        "326": {
+            "Advice_1": "FOR ABDOMINAL AILMENTS MEBEVERINE 135 MG TABLETS",
+            "Advice_2": "1 TABLET HALF HOUR BEFORE FOOD 3 TIMES A DAY FOR 7 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "HG": {
+        "593": {
+            "Advice_1": "DO NOT DRINK ALCOHOL",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "HH": {
+        "nan": {}
+    },
+    "HI": {
+        "nan": {}
+    },
+    "HJ": {
+        "nan": {}
+    },
+    "HK": {
+        "nan": {}
+    },
+    "HL": {
+        "nan": {}
+    },
+    "HM": {
+        "nan": {}
+    },
+    "HX": {
+        "nan": {}
+    },
+    "HZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZF": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZH": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZI": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZJ": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "HZK": {
+        "nan": {}
+    },
+    "HZX": {
+        "nan": {}
+    },
+    "I": {
+        "9": {}
+    },
+    "IA": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "107": {
+            "Advice_1": "FOR PAIN ON CHEST OR LOW BACK, APPLY TURPENTINE LINCTUS",
+            "Advice_2": "RUB ON PAINFUL PART 3 TO 4 TIMES DAILY"
+        },
+        "567": {
+            "Advice_1": "REMAIN ACTIVE WITH LIGHT PHYSICAL ACTIVITY",
+            "Advice_2": "LYING IN BED WILL MAKE PAIN WORSE"
+        },
+        "564": {
+            "Advice_1": "TRY NOT TO LIFT HEAVY WEIGHTS",
+            "Advice_2": "IF YOU HAVE TO LIFT SOME WEIGHT THEN HOLD THE OBJECT CLOSE TO YOUR BODY AND BEND AT KNEES WHILE LIFTING"
+        },
+        "568": {
+            "Advice_1": "AFTER PAIN SUBSIDES TRY TO GET SOME REGULAR EXERCISE",
+            "Advice_2": "LIKE BRISK WALKING AND SIMPLE EXERCISES FOR THE BACK"
+        },
+        "565": {
+            "Advice_1": "DO NOT SIT FOR LONG IN SAME POSITION",
+            "Advice_2": "CHANGE YOUR POSITION FROM TIME TO TIME AND CORRECT YOUR POSTURE IF IT IS FAULTY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "IB": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "107": {
+            "Advice_1": "FOR PAIN ON CHEST OR LOW BACK, APPLY TURPENTINE LINCTUS",
+            "Advice_2": "RUB ON PAINFUL PART 3 TO 4 TIMES DAILY"
+        },
+        "564": {
+            "Advice_1": "TRY NOT TO LIFT HEAVY WEIGHTS",
+            "Advice_2": "IF YOU HAVE TO LIFT SOME WEIGHT THEN HOLD THE OBJECT CLOSE TO YOUR BODY AND BEND AT KNEES WHILE LIFTING"
+        },
+        "568": {
+            "Advice_1": "AFTER PAIN SUBSIDES TRY TO GET SOME REGULAR EXERCISE",
+            "Advice_2": "LIKE BRISK WALKING AND SIMPLE EXERCISES FOR THE BACK"
+        },
+        "565": {
+            "Advice_1": "DO NOT SIT FOR LONG IN SAME POSITION",
+            "Advice_2": "CHANGE YOUR POSITION FROM TIME TO TIME AND CORRECT YOUR POSTURE IF IT IS FAULTY"
+        },
+        "567": {
+            "Advice_1": "REMAIN ACTIVE WITH LIGHT PHYSICAL ACTIVITY",
+            "Advice_2": "LYING IN BED WILL MAKE PAIN WORSE"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "IC": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "107": {
+            "Advice_1": "FOR PAIN ON CHEST OR LOW BACK, APPLY TURPENTINE LINCTUS",
+            "Advice_2": "RUB ON PAINFUL PART 3 TO 4 TIMES DAILY"
+        },
+        "404": {
+            "Advice_1": "FOR BONES CALCIUM LACTATE TABLET",
+            "Advice_2": "1 TABLET TWICE DAILY FEW HOURS BEFORE FOOD FOR 3 MONTHS"
+        },
+        "564": {
+            "Advice_1": "TRY NOT TO LIFT HEAVY WEIGHTS",
+            "Advice_2": "IF YOU HAVE TO LIFT SOME WEIGHT THEN HOLD THE OBJECT CLOSE TO YOUR BODY AND BEND AT KNEES WHILE LIFTING"
+        },
+        "568": {
+            "Advice_1": "AFTER PAIN SUBSIDES TRY TO GET SOME REGULAR EXERCISE",
+            "Advice_2": "LIKE BRISK WALKING AND SIMPLE EXERCISES FOR THE BACK"
+        },
+        "565": {
+            "Advice_1": "DO NOT SIT FOR LONG IN SAME POSITION",
+            "Advice_2": "CHANGE YOUR POSITION FROM TIME TO TIME AND CORRECT YOUR POSTURE IF IT IS FAULTY"
+        },
+        "567": {
+            "Advice_1": "REMAIN ACTIVE WITH LIGHT PHYSICAL ACTIVITY",
+            "Advice_2": "LYING IN BED WILL MAKE PAIN WORSE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "ID": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "107": {
+            "Advice_1": "FOR PAIN ON CHEST OR LOW BACK, APPLY TURPENTINE LINCTUS",
+            "Advice_2": "RUB ON PAINFUL PART 3 TO 4 TIMES DAILY"
+        },
+        "404": {
+            "Advice_1": "FOR BONES CALCIUM LACTATE TABLET",
+            "Advice_2": "1 TABLET TWICE DAILY FEW HOURS BEFORE FOOD FOR 3 MONTHS"
+        },
+        "564": {
+            "Advice_1": "TRY NOT TO LIFT HEAVY WEIGHTS",
+            "Advice_2": "IF YOU HAVE TO LIFT SOME WEIGHT THEN HOLD THE OBJECT CLOSE TO YOUR BODY AND BEND AT KNEES WHILE LIFTING"
+        },
+        "568": {
+            "Advice_1": "AFTER PAIN SUBSIDES TRY TO GET SOME REGULAR EXERCISE",
+            "Advice_2": "LIKE BRISK WALKING AND SIMPLE EXERCISES FOR THE BACK"
+        },
+        "565": {
+            "Advice_1": "DO NOT SIT FOR LONG IN SAME POSITION",
+            "Advice_2": "CHANGE YOUR POSITION FROM TIME TO TIME AND CORRECT YOUR POSTURE IF IT IS FAULTY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        },
+        "567": {
+            "Advice_1": "REMAIN ACTIVE WITH LIGHT PHYSICAL ACTIVITY",
+            "Advice_2": "LYING IN BED WILL MAKE PAIN WORSE"
+        }
+    },
+    "IE": {
+        "nan": {}
+    },
+    "IF": {
+        "nan": {}
+    },
+    "IG": {
+        "nan": {}
+    },
+    "IH": {
+        "nan": {}
+    },
+    "II": {
+        "nan": {}
+    },
+    "IX": {
+        "nan": {}
+    },
+    "IZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZF": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZH": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZI": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZJ": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZK": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "IZL": {
+        "nan": {}
+    },
+    "IZX": {
+        "nan": {}
+    },
+    "J": {
+        "10": {}
+    },
+    "JA": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "561": {
+            "Advice_1": "APPLY HOT FOMENTATION OR HOT WATER BOTTLE ON THE PAINFUL PART"
+        },
+        "569": {
+            "Advice_1": "PRACTISE GENTLE MOVEMENT OF NECK SEVERAL TIMES A DAY",
+            "Advice_2": "DO NOT ALLOW THE BODY TO REMAIN IMMOBILE ALL DAY"
+        },
+        "109": {
+            "Advice_1": "FOR NECK STIFNESS DIAZEPAM 2 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 3 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "JB": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "561": {
+            "Advice_1": "APPLY HOT FOMENTATION OR HOT WATER BOTTLE ON THE PAINFUL PART"
+        },
+        "569": {
+            "Advice_1": "PRACTISE GENTLE MOVEMENT OF NECK SEVERAL TIMES A DAY",
+            "Advice_2": "DO NOT ALLOW THE BODY TO REMAIN IMMOBILE ALL DAY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "JC": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "561": {
+            "Advice_1": "APPLY HOT FOMENTATION OR HOT WATER BOTTLE ON THE PAINFUL PART"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "108": {
+            "Advice_1": "FOR NECK ACHE OR HEADACHE ALMOST DAILY AMITRIPTYLINE 25 MG TABLETS",
+            "Advice_2": "1 TABLET AT NIGHT FOR 7 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "JD": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "570": {
+            "Advice_1": "EXERCISE SHOULDER WITH GENTLE MOVEMENT 3 TIMES A DAY",
+            "Advice_2": "DO NOT ALLOW THE BODY TO REMAIN IMMOBILE ALL DAY"
+        },
+        "561": {
+            "Advice_1": "APPLY HOT FOMENTATION OR HOT WATER BOTTLE ON THE PAINFUL PART"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "JE": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "571": {
+            "Advice_1": "EXERCISE ELBOW WITH GENTLE MOVEMENT SEVERAL TIMES A DAY",
+            "Advice_2": "DO NOT ALLOW THE BODY TO REMAIN IMMOBILE ALL DAY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "JF": {
+        "406": {
+            "Advice_1": "FOR BURNING IN PALMS OR SOLES TAKE PYRIDOXINE (VITAMIN B6) 20 MG TABLET",
+            "Advice_2": "1 TABLET DAILY FOR THREE MONTHS"
+        }
+    },
+    "JG": {
+        "403": {
+            "Advice_1": "FOR GOOD HEALTH VITAMIN B COMPLEX TABLET",
+            "Advice_2": "1 TABLET TWICE DAILY FOR 1 MONTH"
+        }
+    },
+    "JH": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "561": {
+            "Advice_1": "APPLY HOT FOMENTATION OR HOT WATER BOTTLE ON THE PAINFUL PART"
+        },
+        "572": {
+            "Advice_1": "WALK GENTLY WITH THE HELP OF A STICK",
+            "Advice_2": "DO NOT STAY IN BED OR CHAIR ALL THE TIME"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "JI": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "103": {
+            "Advice_1": "FOR PAIN IBUPROFEN 200 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY AFTER FOOD FOR 3 DAYS"
+        },
+        "561": {
+            "Advice_1": "APPLY HOT FOMENTATION OR HOT WATER BOTTLE ON THE PAINFUL PART"
+        },
+        "573": {
+            "Advice_1": "MAKE GENTLE MOVEMENT OF THE KNEE SEVERAL TIMES A DAY",
+            "Advice_2": "DO NOT ALLOW THE BODY TO REMAIN IMMOBILE ALL DAY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "JJ": {
+        "nan": {}
+    },
+    "JK": {
+        "nan": {}
+    },
+    "JX": {
+        "nan": {}
+    },
+    "JZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "JZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "JZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "JZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "JZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "JZF": {
+        "nan": {}
+    },
+    "JZX": {
+        "nan": {}
+    },
+    "K": {
+        "11": {}
+    },
+    "KA": {
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "301": {
+            "Advice_1": "FOR URINE PROBLEMS ALKALINE MIXTURE (1 TEASPOON SODIUM BICARBONATE DISSOLVED IN A GLASS OF WATER) ",
+            "Advice_2": "1 GLASS 3 TIMES DAILY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "KB": {
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "301": {
+            "Advice_1": "FOR URINE PROBLEMS ALKALINE MIXTURE (1 TEASPOON SODIUM BICARBONATE DISSOLVED IN A GLASS OF WATER) ",
+            "Advice_2": "1 GLASS 3 TIMES DAILY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "KC": {
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "301": {
+            "Advice_1": "FOR URINE PROBLEMS ALKALINE MIXTURE (1 TEASPOON SODIUM BICARBONATE DISSOLVED IN A GLASS OF WATER) ",
+            "Advice_2": "1 GLASS 3 TIMES DAILY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "KD": {
+        "112": {
+            "Advice_1": "FOR DIFICULTY IN PASING URNE TAMSULOSIN 0.4 MG TABLETS",
+            "Advice_2": "I TABLET ONCE DAILY FOR 1 MONTH"
+        }
+    },
+    "KE": {
+        "nan": {}
+    },
+    "KF": {
+        "nan": {}
+    },
+    "KG": {
+        "nan": {}
+    },
+    "KH": {
+        "nan": {}
+    },
+    "KX": {
+        "nan": {}
+    },
+    "KZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "KZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "KZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "KZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E2A": {
+        "214": {
+            "Advice_1": "CLEAN EYES USING BOILED LUKEWARM WATER",
+            "Advice_2": "IN BOTH EYES APPLY 2 DROPS OF CHLORAMPHENICOL 0.5% (OR TETRACYCLINE EYE DROPS) 4 TIMES A DAY FOR 5 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "T": {
+        "17": {}
+    },
+    "TA": {
+        "591": {
+            "Advice_1": "STOP SMOKING ",
+            "Advice_2": "EVER"
+        }
+    },
+    "TB": {
+        "592": {
+            "Advice_1": "DO NOT CHEW OR RUB TOBACCO IN THE MOUTH",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "TC": {
+        "593": {
+            "Advice_1": "DO NOT DRINK ALCOHOL",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "TD": {
+        "nan": {}
+    },
+    "TE": {
+        "nan": {}
+    },
+    "E2B": {
+        "269": {
+            "Advice_1": "CLEAN EYES REGULARLY USING BOILED LUKEWARM WATER",
+            "Advice_2": "THEN IN BOTH EYES APPLY TWO DROPS OF SODIUM CHROMOGLYCATE DROPS 4 TIMES A DAY FOR 5 DAYS"
+        },
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "TF": {
+        "nan": {}
+    },
+    "TH": {
+        "220": {
+            "Advice_1": "FOR BLISTERS IN NOSE APPLY NEOMYCIN 0.5% OINTMENT TWICE DAILY",
+            "Advice_2": "DO NOT PICK ON THE BLISTERS IN THE NOSE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "TI": {
+        "218": {
+            "Advice_1": "FOR PIMPLES ON CHEEKS OR FOREHEAD, APPLY CLINDAMYCIN 1% GEL",
+            "Advice_2": "APPLY TWICE DAILY AFTER WASHING FACE; TREATMENT CAN TAKE UP TO  3 MONTHS"
+        }
+    },
+    "TJ": {
+        "242": {
+            "Advice_1": "APPLY MICONAZOLE GEL ON THE TONGUE AND IN THE MOUTH 4 TIMES A DAY AFTER FOOD FOR 7 DAYS",
+            "Advice_2": "DO NOT SPIT OUT THE GEL"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "TK": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "244": {
+            "Advice_1": "METRONIDAZOLE 200 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY FOR 7 DAYS"
+        },
+        "707": {
+            "Advice_1": "SEE A DENTIST IF TEETH OR GUM PROBLEM CONTINUES BEYOND 5 TO 7 DAYS",
+            "Advice_2": "Patient should follow advice given by the Dentist"
+        }
+    },
+    "TL": {
+        "307": {
+            "Advice_1": "AFTER TRYING ABOVE ADVICE IF HICCUPS PERSIST, TAKE PERINORM (METOCLOPRAMIDE) 10 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES DAILY BEFORE FOOD TILL SYMPTOMS SUBSIDE; THIS MEDICINE IS KNOWN TO HAVE ADVERSE EFFECT ON CHILDREN"
+        },
+        "581": {
+            "Advice_1": "LIGHTLY PUT A PAPER BAG OVER YOUR NOSE AND MOUTH ",
+            "Advice_2": "AND BREATHE INTO THE BAG FOR 10 MINUTES"
+        },
+        "582": {
+            "Advice_1": "PUT HALF TEASPOON OF SUGAR IN THE MOUTH",
+            "Advice_2": "AND SUCK ON THE SUGAR"
+        }
+    },
+    "TM": {
+        "nan": {}
+    },
+    "TN": {
+        "nan": {}
+    },
+    "TO": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "566": {
+            "Advice_1": "SLEEP WITH A PILLOW BETWEEN LEGS TO AVOID DISCOMFORT"
+        },
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "TP": {
+        "321": {
+            "Advice_1": "TO 1 LITRE BOILED WATER ADD 1 TEASPOON SALT, JUICE OF HALF A LIME AND 8 TEASPOON SUGAR",
+            "Advice_2": "Drink plenty of this liquid; do NOT keep this liquid for more than 24 hrs; ORS POWDER dissolved in water can also be used instead"
+        },
+        "575": {
+            "Advice_1": "GENTLY MASSAGE THE MUSCLE CRAMP AREA"
+        }
+    },
+    "TQ": {
+        "249": {
+            "Advice_1": "FOR WORMS ALBENDAZOLE 400 MG TABLET",
+            "Advice_2": "ONLY 1 TABLET TO BE TAKEN (AT THE SAME TIME TREAT ALL FAMILY MEMBERS ABOVE THE AGE OF 2 YEARS)"
+        }
+    },
+    "TS": {
+        "309": {
+            "Advice_1": "FOR LOSS OF APPETITE LIV 52 SYRUP",
+            "Advice_2": "1 TEASPOON TWICE A DAY FOR 7 DAYS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "TT": {
+        "110": {
+            "Advice_1": "TRY GOING TO BED ONLY WHEN YOU FEEL SLEEPY",
+            "Advice_2": "AND HAVE A DRINK OF WARM MILK AT NIGHT"
+        },
+        "111": {
+            "Advice_1": "IF STILL UNABLE TO SLEEP USE ZOLPIDEM 5 MG 1 TABLET",
+            "Advice_2": "ZOLPIDEM CAN CAUSE DROWSINESS DURING THE DAY (DO NOT USE ZOLPIDEM FOR MORE THAN 7 DAYS)"
+        },
+        "535": {
+            "Advice_1": "DO SOME EXERCISE, GO FOR A LONG WALK EVERY MORNING",
+            "Advice_2": "AND EAT A GOOD BREAKFAST"
+        }
+    },
+    "TU": {
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        },
+        "216": {
+            "Advice_1": "FOR INSECT BITE, APPLY FUSIDIC ACID 2 PERCENT ON THE BITTEN AREA",
+            "Advice_2": "4 TIMES DAILY FOR 7 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "TV": {
+        "203": {
+            "Advice_1": "FOR BURNS, RUN COLD WATER OVER THE AFFECTED AREA FOR 5 MINUTES",
+            "Advice_2": "THEN APPLY SILVER SULPHADIAZINE CREAM ON IT 3 TIMES A DAY FOR 3 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "TW": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "231": {
+            "Advice_1": "TO PREVENT TETNUS INFECTION TETANUS TOXOID 0.5 ML INTRAMUSCULAR INJECTION (Injection might need to be given by a Doctor)",
+            "Advice_2": "REPEAT TETANUS INJECTION (AFTER 1 MONTH AND AFTER 2 MONTHS IF YOU HAVE NOT TAKEN IT BEFORE)"
+        },
+        "201": {
+            "Advice_1": "WASH WOUND DAILY WITH ANTISEPTIC OR CLEAN WARM SALTY WATER",
+            "Advice_2": "AND PUT A CLEAN DRESSING ON IT"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "TX": {
+        "NIL": {}
+    },
+    "TR": {
+        "309": {
+            "Advice_1": "FOR LOSS OF APPETITE LIV 52 SYRUP",
+            "Advice_2": "1 TEASPOON TWICE A DAY FOR 7 DAYS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "503": {
+            "Advice_1": "TAKE COMPLETE REST"
+        },
+        "538": {
+            "Advice_1": "AVOID VERY OILY, FATTY OR VERY SPICY FOOD"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "563": {
+            "Advice_1": "AVOID STRENUOUS ACTIVITY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "TG": {
+        "253": {
+            "Advice_1": "FOR LICE, WASH HAIR AND COMB WITH FINE COMB, THEN APPLY PERMETHRIN (5%) LOTION",
+            "Advice_2": "THEN WASH AFTER 12 HOURS AND COMB AGAIN; REPEAT TREATMENT AFTER 7 DAYS IF NECESSARY"
+        }
+    },
+    "TY": {
+        "777": {
+            "Advice_1": "Patient should see a Doctor"
+        }
+    },
+    "TZ": {
+        "701": {
+            "Advice_1": "SEE A DOCTOR IMMEDIATELY AFTER DRESSING THE AREA BITTEN BY THE ANIMAL",
+            "Advice_2": "IF YOU HAVE COME FOR ANY OTHER HEALTH PROBLEM FOLLOW THE ADVICE GIVEN BY THE HEALTH EXPERT SYSTEM"
+        }
+    },
+    "E2C": {
+        "274": {
+            "Advice_1": "FOR DRY EYE APPLY TWO DROPS OF SALINE EYE DROPS 3-4 TIMES PER DAY TILL SYMPTOMS SUBSIDE"
+        }
+    },
+    "L": {
+        "12": {}
+    },
+    "E2D": {
+        "402": {
+            "Advice_1": "FOR NIGHTBLINDNESS AROVIT VITAMIN A TABLET 50000 IU",
+            "Advice_2": "2 TABLETS DAILY UPTO 2 WEEKS AFTER SYMPTOMS SUBSIDE"
+        },
+        "533": {
+            "Advice_1": "EAT PLENTY OF CARROTS AND GREEN VEGETABLES AND PAPAYA",
+            "Advice_2": "AND OTHER YELLOW COLOURED FRUITS"
+        }
+    },
+    "LA": {
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        },
+        "703": {
+            "Advice_1": "FOR WOMAN, CHECK UP FOR PREGNANCY WITH A DOCTOR",
+            "Advice_2": "IF NOT ALREADY DONE SO"
+        }
+    },
+    "LB": {
+        "703": {
+            "Advice_1": "FOR WOMAN, CHECK UP FOR PREGNANCY WITH A DOCTOR",
+            "Advice_2": "IF NOT ALREADY DONE SO"
+        },
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "LC": {
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "LD": {
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "503": {
+            "Advice_1": "TAKE COMPLETE REST"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "LE": {
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "520": {
+            "Advice_1": "ASK YOUR DOCTOR IF ANY MEDICINE THEY HAVE GIVEN IS CAUSING THE NEW SYMPTOM(S)",
+            "Advice_2": "ALSO ASK THE DOCTOR IF THE MEDICINE THEY HAVE GIVEN SHOULD BE CHANGED"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "LF": {
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        }
+    },
+    "LG": {
+        "264": {
+            "Advice_1": "PHENERGAN 25 MG TABLET",
+            "Advice_2": "BEFORE GOING ON LONG JOURNEYS TAKE 1 TABLET EVERY 6 HOURLY"
+        }
+    },
+    "LH": {
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "593": {
+            "Advice_1": "DO NOT DRINK ALCOHOL",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "LI": {
+        "nan": {}
+    },
+    "LJ": {
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "LK": {
+        "309": {
+            "Advice_1": "FOR LOSS OF APPETITE LIV 52 SYRUP",
+            "Advice_2": "1 TEASPOON TWICE A DAY FOR 7 DAYS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "LL": {
+        "309": {
+            "Advice_1": "FOR LOSS OF APPETITE LIV 52 SYRUP",
+            "Advice_2": "1 TEASPOON TWICE A DAY FOR 7 DAYS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "503": {
+            "Advice_1": "TAKE COMPLETE REST"
+        },
+        "538": {
+            "Advice_1": "AVOID VERY OILY, FATTY OR VERY SPICY FOOD"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "563": {
+            "Advice_1": "AVOID STRENUOUS ACTIVITY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "LM": {
+        "249": {
+            "Advice_1": "FOR WORMS ALBENDAZOLE 400 MG TABLET",
+            "Advice_2": "ONLY 1 TABLET TO BE TAKEN (AT THE SAME TIME TREAT ALL FAMILY MEMBERS ABOVE THE AGE OF 2 YEARS)"
+        },
+        "554": {
+            "Advice_1": "TREAT ALL FAMILY MEMBERS WITH ALBENDAZOLE AT THE SAME TIME",
+            "Advice_2": "ALSO CUT FINGER NAILS SHORT AND WASH HANDS BEFORE EVERY MEAL"
+        }
+    },
+    "LN": {
+        "nan": {}
+    },
+    "LO": {
+        "nan": {}
+    },
+    "LQ": {
+        "nan": {}
+    },
+    "LX": {
+        "nan": {}
+    },
+    "LZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "LZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "LZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "LZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "LZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "LZF": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "LZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "LZX": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "M": {
+        "13": {}
+    },
+    "MA": {
+        "305": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS PENTOCID 20 MG",
+            "Advice_2": "2 TABLETS BEFORE FOOD EVERY MORNING FOR ONE MONTH"
+        },
+        "538": {
+            "Advice_1": "AVOID VERY OILY, FATTY OR VERY SPICY FOOD"
+        },
+        "532": {
+            "Advice_1": "CHEW YOUR FOOD PROPERLY BEFORE SWALLOWING"
+        },
+        "536": {
+            "Advice_1": "DRINK LIQUIDS WELL BUT TRY NOT DRINKING TOO MUCH WATER WITH YOUR MEALS"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        }
+    },
+    "MB": {
+        "305": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS PENTOCID 20 MG",
+            "Advice_2": "2 TABLETS BEFORE FOOD EVERY MORNING FOR ONE MONTH"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        }
+    },
+    "MC": {
+        "538": {
+            "Advice_1": "AVOID VERY OILY, FATTY OR VERY SPICY FOOD"
+        },
+        "532": {
+            "Advice_1": "CHEW YOUR FOOD PROPERLY BEFORE SWALLOWING"
+        },
+        "536": {
+            "Advice_1": "DRINK LIQUIDS WELL BUT TRY NOT DRINKING TOO MUCH WATER WITH YOUR MEALS"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "305": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS PENTOCID 20 MG",
+            "Advice_2": "2 TABLETS BEFORE FOOD EVERY MORNING FOR ONE MONTH"
+        }
+    },
+    "MD": {
+        "538": {
+            "Advice_1": "AVOID VERY OILY, FATTY OR VERY SPICY FOOD"
+        },
+        "532": {
+            "Advice_1": "CHEW YOUR FOOD PROPERLY BEFORE SWALLOWING"
+        },
+        "537": {
+            "Advice_1": "DO NOT MISS A MEAL, TAKE SMALL MEALS MORE OFTEN",
+            "Advice_2": "AND DO NOT TAKE BIG MEALS"
+        },
+        "305": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS PENTOCID 20 MG",
+            "Advice_2": "2 TABLETS BEFORE FOOD EVERY MORNING FOR ONE MONTH"
+        },
+        "543": {
+            "Advice_1": "PLACE TWO BRICKS UNDER THE BED TO RAISE HEAD WHILE LYING DOWN"
+        },
+        "308": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS DOMPERIDONE 10 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        }
+    },
+    "ME": {
+        "308": {
+            "Advice_1": "FOR STOMACH RELATD AILMENTS DOMPERIDONE 10 MG TABLETS",
+            "Advice_2": "1 TABLET 3 TIMES A DAY FOR 7 DAYS"
+        }
+    },
+    "MF": {
+        "592": {
+            "Advice_1": "DO NOT CHEW OR RUB TOBACCO IN THE MOUTH",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "MG": {
+        "593": {
+            "Advice_1": "DO NOT DRINK ALCOHOL",
+            "Advice_2": "F O R E V E R . . .  IF POSSIBLE"
+        }
+    },
+    "MH": {
+        "249": {
+            "Advice_1": "FOR WORMS ALBENDAZOLE 400 MG TABLET",
+            "Advice_2": "ONLY 1 TABLET TO BE TAKEN (AT THE SAME TIME TREAT ALL FAMILY MEMBERS ABOVE THE AGE OF 2 YEARS)"
+        },
+        "554": {
+            "Advice_1": "TREAT ALL FAMILY MEMBERS WITH ALBENDAZOLE AT THE SAME TIME",
+            "Advice_2": "ALSO CUT FINGER NAILS SHORT AND WASH HANDS BEFORE EVERY MEAL"
+        }
+    },
+    "MI": {
+        "nan": {}
+    },
+    "MJ": {
+        "nan": {}
+    },
+    "MX": {
+        "nan": {}
+    },
+    "MZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "MZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "MZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "MZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "MZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "MZF": {
+        "nan": {}
+    },
+    "N": {
+        "14": {}
+    },
+    "NB": {
+        "311": {
+            "Advice_1": "FOR CONSTIPATION ISABGUL SAT",
+            "Advice_2": "2 TABLESPOONS IN ONE GLASS OF WARM WATER ONCE A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "534": {
+            "Advice_1": "EAT PLENTY OF VEGETABLES AND FRUITS"
+        }
+    },
+    "NC": {
+        "311": {
+            "Advice_1": "FOR CONSTIPATION ISABGUL SAT",
+            "Advice_2": "2 TABLESPOONS IN ONE GLASS OF WARM WATER ONCE A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "534": {
+            "Advice_1": "EAT PLENTY OF VEGETABLES AND FRUITS"
+        },
+        "315": {
+            "Advice_1": "FOR PAINFUL OR BLOODY STOOLS, APPLY PROCTOSEDYL OINTMENT",
+            "Advice_2": "APPLY IN ANUS TWICE A DAY AND ALSO AFTER PASSING STOOL, WASH HANDS THOROUGHLY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "ND": {
+        "311": {
+            "Advice_1": "FOR CONSTIPATION ISABGUL SAT",
+            "Advice_2": "2 TABLESPOONS IN ONE GLASS OF WARM WATER ONCE A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "534": {
+            "Advice_1": "EAT PLENTY OF VEGETABLES AND FRUITS"
+        },
+        "540": {
+            "Advice_1": "TRY TO HAVE REGULAR BOWEL HABIT",
+            "Advice_2": "Try continuously until good habit is formed"
+        },
+        "315": {
+            "Advice_1": "FOR PAINFUL OR BLOODY STOOLS, APPLY PROCTOSEDYL OINTMENT",
+            "Advice_2": "APPLY IN ANUS TWICE A DAY AND ALSO AFTER PASSING STOOL, WASH HANDS THOROUGHLY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "NE": {
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "311": {
+            "Advice_1": "FOR CONSTIPATION ISABGUL SAT",
+            "Advice_2": "2 TABLESPOONS IN ONE GLASS OF WARM WATER ONCE A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "542": {
+            "Advice_1": "CONSTIPATION IS BECAUSE YOU CANNOT CHEW FOOD",
+            "Advice_2": "TRY TO GET FALSE TEETH FITTED"
+        }
+    },
+    "NF": {
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "311": {
+            "Advice_1": "FOR CONSTIPATION ISABGUL SAT",
+            "Advice_2": "2 TABLESPOONS IN ONE GLASS OF WARM WATER ONCE A DAY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "520": {
+            "Advice_1": "ASK YOUR DOCTOR IF ANY MEDICINE THEY HAVE GIVEN IS CAUSING THE NEW SYMPTOM(S)",
+            "Advice_2": "ALSO ASK THE DOCTOR IF THE MEDICINE THEY HAVE GIVEN SHOULD BE CHANGED"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "NL": {
+        "nan": {}
+    },
+    "NM": {
+        "nan": {}
+    },
+    "NX": {
+        "nan": {}
+    },
+    "NZA": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "NZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "NZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "NZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "NZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "NZF": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "NZG": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "NZI": {
+        "nan": {}
+    },
+    "NZX": {
+        "nan": {}
+    },
+    "P": {
+        "15": {}
+    },
+    "PD": {
+        "323": {
+            "Advice_1": "MIST BISMUTH KAOLIN OR SYRUP PECTOKAB",
+            "Advice_2": "2 TEASPOON 3 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "531": {
+            "Advice_1": "EAT BANANAS AND APPLES AND BUTTER MILK",
+            "Advice_2": "AVOID MILK AND FATTY FOOD"
+        },
+        "321": {
+            "Advice_1": "TO 1 LITRE BOILED WATER ADD 1 TEASPOON SALT, JUICE OF HALF A LIME AND 8 TEASPOON SUGAR",
+            "Advice_2": "Drink plenty of this liquid; do NOT keep this liquid for more than 24 hrs; ORS POWDER dissolved in water can also be used instead"
+        },
+        "520": {
+            "Advice_1": "ASK YOUR DOCTOR IF ANY MEDICINE THEY HAVE GIVEN IS CAUSING THE NEW SYMPTOM(S)",
+            "Advice_2": "ALSO ASK THE DOCTOR IF THE MEDICINE THEY HAVE GIVEN SHOULD BE CHANGED"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "PA": {
+        "531": {
+            "Advice_1": "EAT BANANAS AND APPLES AND BUTTER MILK",
+            "Advice_2": "AVOID MILK AND FATTY FOOD"
+        },
+        "321": {
+            "Advice_1": "TO 1 LITRE BOILED WATER ADD 1 TEASPOON SALT, JUICE OF HALF A LIME AND 8 TEASPOON SUGAR",
+            "Advice_2": "Drink plenty of this liquid; do NOT keep this liquid for more than 24 hrs; ORS POWDER dissolved in water can also be used instead"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "PE": {
+        "531": {
+            "Advice_1": "EAT BANANAS AND APPLES AND BUTTER MILK",
+            "Advice_2": "AVOID MILK AND FATTY FOOD"
+        },
+        "541": {
+            "Advice_1": "IF OTHERS IN FAMILY ARE ALSO SICK, YOU MAY BE SUFFERING FROM FOOD POISONING",
+            "Advice_2": "DO NOT EAT STALE FOOD"
+        },
+        "321": {
+            "Advice_1": "TO 1 LITRE BOILED WATER ADD 1 TEASPOON SALT, JUICE OF HALF A LIME AND 8 TEASPOON SUGAR",
+            "Advice_2": "Drink plenty of this liquid; do NOT keep this liquid for more than 24 hrs; ORS POWDER dissolved in water can also be used instead"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "PB": {
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "407": {
+            "Advice_1": "PROBIOTIC WITH ZINC",
+            "Advice_2": "ONE TABLET ONCE A DAY FOR 2 WEEKS"
+        },
+        "322": {
+            "Advice_1": "FOR DIARRHOEA RACECADOCTRIL 100 MG CAPSULE",
+            "Advice_2": "ONE CAPSULE 3 TIMES A  DAY FOR 3 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "PC": {
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "407": {
+            "Advice_1": "PROBIOTIC WITH ZINC",
+            "Advice_2": "ONE TABLET ONCE A DAY FOR 2 WEEKS"
+        },
+        "531": {
+            "Advice_1": "EAT BANANAS AND APPLES AND BUTTER MILK",
+            "Advice_2": "AVOID MILK AND FATTY FOOD"
+        },
+        "321": {
+            "Advice_1": "TO 1 LITRE BOILED WATER ADD 1 TEASPOON SALT, JUICE OF HALF A LIME AND 8 TEASPOON SUGAR",
+            "Advice_2": "Drink plenty of this liquid; do NOT keep this liquid for more than 24 hrs; ORS POWDER dissolved in water can also be used instead"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "PF": {
+        "249": {
+            "Advice_1": "FOR WORMS ALBENDAZOLE 400 MG TABLET",
+            "Advice_2": "ONLY 1 TABLET TO BE TAKEN (AT THE SAME TIME TREAT ALL FAMILY MEMBERS ABOVE THE AGE OF 2 YEARS)"
+        },
+        "554": {
+            "Advice_1": "TREAT ALL FAMILY MEMBERS WITH ALBENDAZOLE AT THE SAME TIME",
+            "Advice_2": "ALSO CUT FINGER NAILS SHORT AND WASH HANDS BEFORE EVERY MEAL"
+        }
+    },
+    "PG": {
+        "nan": {}
+    },
+    "PH": {
+        "nan": {}
+    },
+    "E2E": {
+        "704": {
+            "Advice_1": "GET YOUR EYES TESTED",
+            "Advice_2": "SOON"
+        }
+    },
+    "PI": {
+        "nan": {}
+    },
+    "PJ": {
+        "nan": {}
+    },
+    "E2F": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "241": {
+            "Advice_1": "APPLY TWO DROPS OF OTOCIN-O INTO THE AFFECTED EAR(S) FOR 5 TO 7 DAYS",
+            "Advice_2": "AVOID GETTING WATER INTO THE EARS AND NEVER CLEAN EARS WITH A STICK OR ANY OTHER OBJECT"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "E2G": {
+        "261": {
+            "Advice_1": "FOR NAUSEA OR VOMITING STEMETIL 5 MG TABLET",
+            "Advice_2": "1 TABLET 3 TIMES DAILY TILL NAUSEA AND VOMITING STOPS"
+        },
+        "501": {
+            "Advice_1": "DRINK PLENTY OF LIQUIDS",
+            "Advice_2": "THROUGHOUT THE DAY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "PK": {
+        "nan": {}
+    },
+    "PX": {
+        "nan": {}
+    },
+    "PZA": {
+        "nan": {}
+    },
+    "PZB": {
+        "nan": {}
+    },
+    "PZC": {
+        "nan": {}
+    },
+    "Q": {
+        "16": {}
+    },
+    "QA": {
+        "245": {
+            "Advice_1": "UNDER THE ARMS OR ON THE PRIVATE PARTS APPLY CLOTRIMAZOLE 2 % CREAM 3 TIMES DAILY FOR 7 DAYS",
+            "Advice_2": "REGULARLY WASH THE AREA WITH SOAP AND WATER AND KEEP IT DRY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "QB": {
+        "101": {
+            "Advice_1": "FOR PAIN OR FEVER PARACETAMOL 500 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES DAILY TILL SYMPTOMS SUBSIDE"
+        },
+        "221": {
+            "Advice_1": "FOR ITCHY PAINFUL BLISTERS ON LIPS FACE OR MOUTH, APPLY ACICLOVIR CREAM 5 PERCENT",
+            "Advice_2": "APPLY ON AFFECTED PATCHES 5 TIMES DAILY FOR 7 DAYS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "QC": {
+        "205": {
+            "Advice_1": "ERYTHROMYCIN 250 MG TABLET",
+            "Advice_2": "1 TABLET 4 TIMES A DAY FOR 7 DAYS"
+        },
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        },
+        "222": {
+            "Advice_1": "ON GOLDEN CRUSTED BLISTERS ON LIPS OR FACE APLY MUPIROCIN 2% CREAM",
+            "Advice_2": "4 TIMES DAILY FOR 7 DAYS"
+        },
+        "552": {
+            "Advice_1": "DO NOT PICK THE BLISTERS AND KEEP TOWEL OF PATIENT SEPARATE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "QD": {
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        },
+        "252": {
+            "Advice_1": "FOR FINGERS, TUMMY & GROIN ITCH APPLY PERMETHRIN 5% LOTION ALL OVER BODY, AVOID CONTACT WITH EYES",
+            "Advice_2": "WASH AFTER 12 HOURS (ALSO TREAT ALL FAMILY MEMBERS AT THE SAME TIME)"
+        },
+        "553": {
+            "Advice_1": "WASH ALL PERSONAL CLOTHES AND BEDDING AND BEDSHEETS"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "QE": {
+        "270": {
+            "Advice_1": "FOR LARGE ITCHY PATCHES WITH DRY FLAKY SKIN",
+            "Advice_2": "ON AFFECTED PART APPLY BETNOVATE 0.1 PERCENT CREAM MORNING AND EVENING FOR 7 DAYS"
+        },
+        "271": {
+            "Advice_1": "FOR LARGE ITCHY PATCHES WITH DRY FLAKY SKIN",
+            "Advice_2": "ALSO APPLY VASELINE LOTION FOUR TIMES DAILY UNTIL SYMPTOMS SUBSIDE"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "QF": {
+        "245": {
+            "Advice_1": "UNDER THE ARMS OR ON THE PRIVATE PARTS APPLY CLOTRIMAZOLE 2 % CREAM 3 TIMES DAILY FOR 7 DAYS",
+            "Advice_2": "REGULARLY WASH THE AREA WITH SOAP AND WATER AND KEEP IT DRY"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "QG": {
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        },
+        "518": {
+            "Advice_1": "TRY TO AVOID FOODS WHICH CAUSE ITCHING"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "QH": {
+        "210": {
+            "Advice_1": "COTRIMOXAZOLE 480 MG TABLETS:  2 TABLETS TWICE A DAY FOR 5 DAYS",
+            "Advice_2": "(COTRIMOXAZOLE SHOULD NOT BE GIVEN TO PREGNANT WOMEN OR NURSING MOTHERS)"
+        },
+        "551": {
+            "Advice_1": "WASH PRIVATE PARTS TWICE DAILY",
+            "Advice_2": "AND USE CLEAN UNDER CLOTHES EVERYDAY"
+        },
+        "247": {},
+        "708": {
+            "Advice_1": "SEE A GYNAECOLOGIST IF WHITE DISCHARGE PERSISTS FOR MORE THAN 7 DAYS"
+        }
+    },
+    "QI": {
+        "262": {
+            "Advice_1": "CETIRIZINE 10 MG TABLET",
+            "Advice_2": "I TABLET EVERY NIGHT BEFORE GOING TO BED UNTIL SYMPTOMS SUBSIDE"
+        },
+        "263": {
+            "Advice_1": "WITH CETIRIZINE TABLET BE CAREFUL",
+            "Advice_2": "CETIRIZINE MAY CAUSE DROWSINESS"
+        },
+        "520": {
+            "Advice_1": "ASK YOUR DOCTOR IF ANY MEDICINE THEY HAVE GIVEN IS CAUSING THE NEW SYMPTOM(S)",
+            "Advice_2": "ALSO ASK THE DOCTOR IF THE MEDICINE THEY HAVE GIVEN SHOULD BE CHANGED"
+        },
+        "711": {
+            "Advice_1": "SEE A DOCTOR IF SYMPTOMS CONTINUE BEYOND 5 TO 7 DAYS OR EARLIER IF NEW SYMPTOMS ARISE",
+            "Advice_2": "After seeing the Doctor follow advice given by the Doctor"
+        }
+    },
+    "E2ZE": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "QJ": {
+        "249": {
+            "Advice_1": "FOR WORMS ALBENDAZOLE 400 MG TABLET",
+            "Advice_2": "ONLY 1 TABLET TO BE TAKEN (AT THE SAME TIME TREAT ALL FAMILY MEMBERS ABOVE THE AGE OF 2 YEARS)"
+        },
+        "554": {
+            "Advice_1": "TREAT ALL FAMILY MEMBERS WITH ALBENDAZOLE AT THE SAME TIME",
+            "Advice_2": "ALSO CUT FINGER NAILS SHORT AND WASH HANDS BEFORE EVERY MEAL"
+        }
+    },
+    "QX": {
+        "777": {
+            "Advice_1": "Patient should see a Doctor"
+        }
+    },
+    "QY": {
+        "nan": {}
+    },
+    "E2ZB": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E2ZC": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    },
+    "E2ZD": {
+        "715": {
+            "Advice_1": "PLEASE SEE A DOCTOR IMMEDIATELY",
+            "Advice_2": "AND FOLLOW ADVICE GIVEN BY THE DOCTOR"
+        }
+    }
+}

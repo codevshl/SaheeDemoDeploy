@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Symptoms in {{ subcategory }}</title>
+</head>
+<body>
+    <h1>Select Symptoms in {{ subcategory }}</h1>
+    <form action="" method="post">
+        {% for symptom in symptoms %}
+            <input type="checkbox" id="{{ symptom }}" name="symptom" value="{{ symptom }}">
+            <!-- <label for="{{ symptom }}">{{ symptom }}</label><br> -->
+            <label for="{{ symptom }}">{{ SymptomName[symptom] }}</label><br>
+        {% endfor %}
+        <input type="submit" name="finalize" value="Finalize Selections">
+        <input type="submit" name="continue" value="Add More Symptoms">
+    </form>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Review Your Selections</title>
+</head>
+<body>
+    <h1>Your Selections</h1>
+    {% if collected_data %}
+        <ul>
+            {% for category, subcats in collected_data.items() %}
+                <li>{{ category }}
+                    <ul>
+                        {% for subcat, symptoms in subcats.items() %}
+                            <li>{{ subcat }}: {{ symptoms|join(', ') }}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No selections made.</p>
+    {% endif %}
+
+    <!-- <h1>Compiled Advice</h1>
+    {% if advice %}
+        <ul>
+            {% for symptom, advices in advice.items() %}
+                <li>{{ symptom }}
+                    <ul>
+                        {% for code, advice_details in advices.items() %}
+                            <li>Code {{ code }}: {{ advice_details['Advice_1'] }}{% if advice_details['Advice_2'] %}, {{ advice_details['Advice_2'] }}{% endif %}</li>
+                        {% endfor %}
+                    </ul>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No specific advice compiled.</p>
+    {% endif %} -->
+
+
+    <h1> Advice</h1>
+    {% if advice %}
+        <ul>
+            {% for symptom, advices in advice.items() %}
+                <!-- <li>{{ symptom }}
+                    <ul> -->
+                        {% for code, advice_details in advices.items() %}
+                            <li> {{ advice_details['Advice_1'] }}{% if advice_details['Advice_2'] %}, {{ advice_details['Advice_2'] }}{% endif %}</li>
+                        {% endfor %}
+                    <!-- </ul>
+                </li> -->
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No specific advice compiled.</p>
+    {% endif %}
+
+    <a href="/">Restart Selection</a>
+</body>
+</html>

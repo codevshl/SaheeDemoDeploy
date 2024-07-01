@@ -1,0 +1,311 @@
+{
+    "A": {
+        "AA": [],
+        "AB": [],
+        "AC": [],
+        "AD": [],
+        "Severe Symptom": {
+            "AZA": [],
+            "AZB": [],
+            "AZC": [],
+            "AZD": [],
+            "AZE": [],
+            "AZF": [],
+            "AZG": [],
+            "AZH": [],
+            "AZI": []
+        }
+    },
+    "B": {
+        "BA": [],
+        "BB": [],
+        "BC": [],
+        "BD": [],
+        "BE": [],
+        "Severe Symptom": {
+            "BZA": [],
+            "BZB": [],
+            "BZC": [],
+            "BZD": [],
+            "BZE": [],
+            "BZF": [],
+            "BZG": []
+        }
+    },
+    "C": {
+        "CA": [],
+        "CB": [],
+        "CC": [],
+        "CD": [],
+        "CE": [],
+        "CF": [],
+        "CG": [],
+        "CH": [],
+        "Severe Symptom": {
+            "CZD": [],
+            "CZA": [],
+            "CZB": [],
+            "CZC": []
+        }
+    },
+    "D": {
+        "DA": [],
+        "DB": [],
+        "DC": [],
+        "DD": [],
+        "DE": [],
+        "DF": [],
+        "Severe Symptom": {
+            "DZA": [],
+            "DZB": [],
+            "DZC": []
+        }
+    },
+    "E1": {
+        "E1A": [],
+        "E1B": [],
+        "E1C": [],
+        "E1D": [],
+        "Severe Symptom": {
+            "E1ZA": [],
+            "E1ZB": [],
+            "E1ZC": [],
+            "E1ZD": [],
+            "E1ZE": [],
+            "E1ZF": [],
+            "E1ZG": [],
+            "E1ZH": []
+        }
+    },
+    "F": {
+        "FA": [],
+        "FB": [],
+        "FC": [],
+        "FD": [],
+        "Severe Symptom": {
+            "FZA": [],
+            "FZB": [],
+            "FZC": [],
+            "FZD": [],
+            "FZH": [],
+            "FZI": [],
+            "FZJ": []
+        }
+    },
+    "G": {
+        "GA": {
+            "GAA": [],
+            "GAB": [],
+            "GAC": [],
+            "GAD": [],
+            "GAE": [],
+            "GAF": []
+        },
+        "GB": {
+            "GBA": [],
+            "GBB": [],
+            "GBC": [],
+            "GBD": [],
+            "GBE": []
+        },
+        "Severe Symptom": {
+            "GZA": [],
+            "GZB": [],
+            "GZC": [],
+            "GZD": [],
+            "GZF": [],
+            "GZG": [],
+            "GZH": [],
+            "GZI": [],
+            "GZJ": []
+        }
+    },
+    "L": {
+        "LA": [],
+        "LB": [],
+        "LC": [],
+        "LD": [],
+        "LE": [],
+        "LF": [],
+        "LG": [],
+        "Severe Symptom": {
+            "LZA": [],
+            "LZB": [],
+            "LZC": [],
+            "LZD": [],
+            "LZE": [],
+            "LZF": []
+        }
+    },
+    "E2": {
+        "E2A": [],
+        "E2B": [],
+        "E2C": [],
+        "E2D": [],
+        "E2E": [],
+        "E2F": [],
+        "E2G": [],
+        "Severe Symptom": {
+            "E2ZA": [],
+            "E2ZB": [],
+            "E2ZC": [],
+            "E2ZD": [],
+            "E2ZE": []
+        }
+    },
+    "H": {
+        "HA": [],
+        "HB": [],
+        "HC": [],
+        "HE": [],
+        "HF": [],
+        "Severe Symptom": {
+            "HZA": [],
+            "HZB": [],
+            "HZC": [],
+            "HZD": [],
+            "HZE": [],
+            "HZF": [],
+            "HZG": [],
+            "HZH": [],
+            "HZI": []
+        }
+    },
+    "I": {
+        "IA": [],
+        "IB": [],
+        "IC": [],
+        "ID": [],
+        "Severe Symptom": {
+            "IZA": [],
+            "IZB": [],
+            "IZC": [],
+            "IZD": [],
+            "IZE": [],
+            "IZF": [],
+            "IZG": [],
+            "IZI": []
+        }
+    },
+    "J": {
+        "JA": [],
+        "JB": [],
+        "JC": [],
+        "JD": [],
+        "JE": [],
+        "JF": [],
+        "JG": [],
+        "JH": [],
+        "JI": [],
+        "Severe Symptom": {
+            "JZA": [],
+            "JZB": [],
+            "JZC": [],
+            "JZD": [],
+            "JZE": []
+        }
+    },
+    "K": {
+        "KA": [],
+        "KB": [],
+        "KC": [],
+        "Severe Symptom": {
+            "KZD": [],
+            "KZE": [],
+            "KZF": [],
+            "KZG": [],
+            "KZA": [],
+            "KZB": [],
+            "KZH": []
+        }
+    },
+    "M": {
+        "MA": [],
+        "MB": [],
+        "MC": [],
+        "MD": [],
+        "ME": [],
+        "Severe Symptom": {
+            "MZA": [],
+            "MZB": [],
+            "MZD": []
+        }
+    },
+    "N": {
+        "NB": [],
+        "NC": [],
+        "ND": [],
+        "NE": [],
+        "NF": [],
+        "Severe Symptom": {
+            "NZA": [],
+            "NZB": [],
+            "NZC": [],
+            "NZD": [],
+            "NZE": [],
+            "NZF": [],
+            "NZG": [],
+            "NZH": []
+        }
+    },
+    "P": {
+        "PA": [],
+        "PB": [],
+        "PC": [],
+        "PD": [],
+        "PE": [],
+        "Severe Symptom": {
+            "PZA": [],
+            "PZB": [],
+            "PZC": [],
+            "PZD": [],
+            "PZG": [],
+            "PZE": [],
+            "PZF": []
+        }
+    },
+    "Q": {
+        "QA": [],
+        "QB": [],
+        "QC": [],
+        "QD": [],
+        "QE": [],
+        "QF": [],
+        "QG": [],
+        "QH": [],
+        "QI": [],
+        "QX": [],
+        "Severe Symptom": {
+            "QZA": [],
+            "QZB": [],
+            "QZC": [],
+            "QZD": []
+        }
+    },
+    "T": {
+        "TA": [],
+        "TB": [],
+        "TC": [],
+        "TG": [],
+        "TH": [],
+        "TI": [],
+        "TJ": [],
+        "TK": [],
+        "TL": [],
+        "TO": [],
+        "TP": [],
+        "TQ": [],
+        "TR": [],
+        "TS": [],
+        "TT": [],
+        "TU": [],
+        "TV": [],
+        "TW": [],
+        "TX": [],
+        "TY": [],
+        "Severe Symptom": {
+            "TZA": [],
+            "TZB": []
+        }
+    }
+}

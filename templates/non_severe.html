@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Subcategory in {{ category }}</title>
+</head>
+<body>
+    <h1>Select a Subcategory in {{ category }}</h1>
+    <form action="" method="post">
+        {% for subcat, details in subcategories.items() %}
+            <input type="radio" id="{{ subcat }}" name="subcategory" value="{{ subcat }}">
+            <!-- <label for="{{ subcat }}">{{ subcat }}</label><br> -->
+            <label for="{{ subcat }}">{{ SymptomName[subcat] }}</label><br>
+        {% endfor %}
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Symptom Category</title>
+</head>
+<body>
+    <h1>Select a Symptom Category</h1>
+    <form action="/" method="post">
+        {% for category in categories %}
+            <input type="radio" id="{{ category }}" name="category" value="{{ category }}"> -->
+            <!-- <label for="{{ category }}">{{ category }}</label><br> -->
+            <!-- <label for="{{ category }}">{{ SymptomName[category] }}</label><br>
+        {% endfor %}
+        <input type="submit" value="Submit">
+    </form>
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Symptom Category</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="form-container">
+        <h1>Select a Symptom Category</h1>
+        <form action="/" method="post">
+            {% for category in categories %}
+                <div class="option">
+                    <input type="radio" id="{{ category }}" name="category" value="{{ category }}">
+                    <label for="{{ category }}">{{ SymptomName[category] }}</label>
+                </div>
+            {% endfor %}
+            <button type="submit" class="submit-btn">Submit</button>
+        </form>
+        {% if error %}
+            <p class="error">{{ error }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
